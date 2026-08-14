@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0056-merge-intervals) |
 | [0219-contains-duplicate-ii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
