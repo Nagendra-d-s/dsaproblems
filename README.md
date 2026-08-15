@@ -66,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0184-department-highest-salary) |
 | [1693-daily-leads-and-partners](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
