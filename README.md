@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
