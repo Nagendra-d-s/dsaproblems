@@ -6,7 +6,8 @@
 
 class Solution(object):
     def getIntersectionNode(self, headA, headB):
-        d={}
+        #brute force
+        """d={}
         temp=headA
         while temp:
             d[temp]=1
@@ -16,4 +17,20 @@ class Solution(object):
             if temp in d:
                 return temp
             temp=temp.next
-        return None
+        return None"""
+
+        #optimal
+        if not headA or not headB:
+            return None
+        temp1=headA
+        temp2=headB
+        while temp1 != temp2:
+            if temp1 is None:
+                temp1=headB
+            else:
+                temp1=temp1.next
+            if temp2 is None:
+                temp2=headA
+            else:
+                temp2=temp2.next
+        return temp1
