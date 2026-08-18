@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0056-merge-intervals) |
 | [0219-contains-duplicate-ii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0739-daily-temperatures) |
 | [1563-stone-game-v](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
