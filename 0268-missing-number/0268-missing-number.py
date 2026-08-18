@@ -4,8 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums=sorted(nums)
+        total,bi=0,0
         for i in range(len(nums)):
-            if i^nums[i]!=0:
-                return i
-        return i+1
+            total^=nums[i]
+            bi^=i
+        bi^=i+1
+        return bi^total
