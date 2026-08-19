@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
