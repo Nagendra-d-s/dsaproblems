@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0904-fruit-into-baskets) |
+| [1386-cinema-seat-allocation](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0904-fruit-into-baskets) |
+| [1386-cinema-seat-allocation](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
