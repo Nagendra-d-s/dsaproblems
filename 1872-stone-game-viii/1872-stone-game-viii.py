@@ -10,8 +10,6 @@ class Solution(object):
         for i in range(1,len(stones)):
             prefix[i]=prefix[i-1]+stones[i]
         best=prefix[n-1]
-        print(prefix)
         for i in range(n-2,0,-1):
             best=max(best,prefix[i]-best)
-            print(best)
         return best
