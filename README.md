@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0268-missing-number) |
 | [1563-stone-game-v](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nagendra-d-s/https-github.com-Nagendra-d-s-dsaproblems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
